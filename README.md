@@ -35,4 +35,3 @@ If you prefer configuring individual stages manually, follow these terminal inst
    ```bash
    python3 main.py
    ```
-
